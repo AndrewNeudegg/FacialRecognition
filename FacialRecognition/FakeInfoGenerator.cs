@@ -13,9 +13,8 @@ namespace MultiFaceRec
         public string[] fakeNumber = new string[5] { "079 8749 0219", "078 0115 4223", "078 0932 6276", "077 5936 3722", "077 5936 3122" };
         public string[] fakeEmail = new string[5] { "Howething@hotmail.com", "flippityflop@gmail.com", "zachiscool95@dayrep.com", "colabthings@hotmail.co.uk", "natasha891@dgmail.com" };
         public string[] fakeHeight = new string[5] { "168cm", "153cm", "173cm", "180cm", "160cm" };
+        public string[] fakeWeight = new string[5] { "95.5kg", "80kg", "73kg", "67kg", "75kg" };
         
-        
-
-       
+    
     }
 }
